@@ -1,4 +1,5 @@
 # Retail Sales Performance Analysis Using SQL
+*Constructed a Data Pipeline with Python ETL and Performed SQL-Based Exploration*
 
 ### Overview
 This project aims to analyze sales performance across different product categories, regions, and time periods using a structured dataset of retail orders. The objective is to uncover data-driven insights to inform strategic decision-making related to product performance, revenue growth, and regional trends.
